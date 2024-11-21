@@ -30,7 +30,7 @@ twitter_username:
 github_username:  Lenjis
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
